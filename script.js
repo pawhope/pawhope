@@ -47,38 +47,38 @@ const animals = [
 
 
     /* =========================================
-       ANIMAL 2
+       ANIMAL 2 — NİGHT
     ========================================== */
 
     {
-        empty: true,
-
-        name: "",
-
-        title: "",
-
-        image: "",
-
-        story: ""
-
+        empty: false,
+    
+        name: "Night",
+    
+        title: "Needs Food, Needs Shelter, Needs Medical Care",
+    
+        image: "https://raw.githubusercontent.com/pawhope/pawhope/refs/heads/main/Night.jpeg",
+    
+        story: "Night was found severely wounded on the side of a busy street, most likely hit by a reckless driver. Night needs proper medical treatment"
     },
 
 
     /* =========================================
-       ANIMAL 3
+       ANIMAL 3 — ANGELA
     ========================================== */
 
     {
-        empty: true,
-
-        name: "",
-
-        title: "",
-
-        image: "",
-
-        story: ""
-
+        name: "Angela",
+    
+        title: "Needs Food, Needs Shelter, Needs Medical Care",
+    
+        image: "https://raw.githubusercontent.com/pawhope/pawhope/refs/heads/main/WhatsApp%20Image%202026-07-27%20at%2019.37.42.jpeg",
+    
+        story: "Angela despite being a kitten has a tearing inside her stomach requiring the immediate need for heavy surgery. Her surgery price is 25,000 TRY which accumulates to £390",
+    
+        button: "Help Angela →",
+    
+        empty: false
     },
 
 
